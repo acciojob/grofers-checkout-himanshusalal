@@ -1,3 +1,4 @@
+<Script>
 const getSumBtn = document.createElement("button");
 getSumBtn.append("Get Total Price");
 document.body.appendChild(getSumBtn);
@@ -41,4 +42,4 @@ newRow.appendChild(newCell);
 // Append row to table
 table.appendChild(newRow);
 
-
+</script>
